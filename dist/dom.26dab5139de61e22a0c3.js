@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#hidden-button"),document.querySelector("#hidden-paragraph")})();

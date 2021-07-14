@@ -1,0 +1,30 @@
+body{
+    font-family: NSimSun;
+    text-align: center;
+}
+
+h1{
+    font-size: 28px;
+    margin: 20px;
+}
+
+p{
+    border: 1px solid darkblue;
+    padding: 20px;
+    margin: 30px auto;
+    width: 50%;
+    font-size: 18px;
+}
+
+button{
+    border: 2px solid darkblue;
+    background-color: lightgray;
+    padding: 8px;
+    font: inherit;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightslategrey;
+    border: 2px solid darkgrey;
+}
